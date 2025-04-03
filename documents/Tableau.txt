@@ -1,0 +1,64 @@
+Tableau Software, LLC is an American interactive data visualization software company focused on business intelligence.[2][3] It was founded in 2003 in Mountain View, California, and is currently headquartered in Seattle, Washington.[4] In 2019, the company was acquired by Salesforce for $15.7 billion.[5] At the time, this was the largest acquisition by Salesforce (a leader in the CRM field) since its foundation.[6] It was later surpassed by Salesforce's acquisition of Slack.[7]
+
+The company's founders, Christian Chabot, Pat Hanrahan and Chris Stolte, were researchers at the Department of Computer Science at Stanford University.[8] They specialized in visualization techniques for exploring and analyzing relational databases and data cubes,[9] and started the company as a commercial outlet for research at Stanford from 1999 to 2002.
+
+Tableau products query relational databases, online analytical processing cubes, cloud databases, and spreadsheets to generate graph-type data visualizations. The software can also extract, store, and retrieve data from an in-memory data engine.
+
+Software products
+Tableau products include:[10][11]
+
+Tableau Desktop[12]
+Tableau Server[13]
+Tableau Prep Builder[14] (released in 2018)
+Tableau Vizable[15] (consumer data visualization mobile app released in 2015)
+Tableau Public (free to use)
+Tableau Reader (free to use)
+Tableau Mobile[16][17]
+Tableau Cloud[18]
+Tableau Prep[19]
+Tableau CRM[20]
+Tableau Bridge[21]
+Functionalities
+2
+3
+4
+Some visualizations created by Tableau Software
+Tableau offers drag and drop and other features such as multiple chart formats and mapping capabilities.[22][23]
+
+Map functionalities
+The software is able to plot latitude and longitude coordinates and connect to spatial files[24] like Esri Shapefiles, KML, and GeoJSON to display custom geography.[25] The built-in geo-coding allows for administrative places (country, state/province, county/district), postal codes, US Congressional Districts, US CBSA/MSA, Area Codes, Airports, and European Union statistical areas (NUTS codes) to be mapped automatically. Geographies can be grouped to create custom territories[26] or custom geocoding used to extend existing geographic roles in the product.[27]
+
+Data sources
+Tableau Software can connect to data sources such as regular text files (.txt, .csv), Microsoft Excel (.xlsx), Microsoft Access (.accdb), import from Tableau workbook (.tbm), Tableau Table data Extract (.tds)[12] and many other types. It also allows to connect to data using multiple pre-built connectors [28]
+
+Data Type
+
+Tableau express automatically data types and fields. Tableau will make use of the data type that the data source has defined if it exists, or it will choose a data type if the data source does not specify one. In Tableau, the following data types are supported[29]
+
+Text (string) Value
+Date Value
+Date and Time Value
+Numerical Value
+Geographic Values (Latitude and longitude used for maps)
+Boolean Values (True / False Conditions)
+Image role (used with image link URLs)
+Cluster Group (used with Find Clusters in Data)
+History
+While at Stanford, founders Hanrahan and Stolte, as well as Diane Tang, created the predecessor to Tableau, named Polaris; Polaris was a data visualization software tool, built with the support of a United States Department of Energy defense program, the Accelerated Strategic Computing Initiative (ASCI).[30][31] ASCI was formed to facilitate the simulation and modeling of nuclear weapons.[32]
+
+Tableau was formally founded in January 2003 by Pat Hanrahan, Christian Chabot, and Chris Stolte, and moved its headquarters to the Fremont neighborhood of Seattle, Washington, the following year.[33][34] The company has since expanded its Fremont headquarters and announced plans in 2016 for an auxiliary campus in suburban Kirkland, Washington.[35] A new headquarters building opened near Gas Works Park in Wallingford in March 2017 and was followed by a new building in Fremont that opened in 2018.[36]
+
+In August 2016, Tableau announced the appointment of Adam Selipsky as president and CEO, effective September 16, 2016, replacing co-founder Christian Chabot as CEO.[37]
+
+In June 2018, Tableau acquired Empirical Systems, a Cambridge, Massachusetts based artificial intelligence startup, with plans to integrate the company's technology into the Tableau platform. Tableau also announced plans to establish an office in Cambridge as a result of the deal.[38][39]
+
+On June 10, 2019, Tableau was acquired by Salesforce in an all-stock deal worth $15.7 billion, being the largest acquisition in Salesforce's history at the time.[40]
+
+In March 2021, Tableau announced the appointment of Mark Nelson as president and CEO, replacing Adam Selipsky.[41] Current CEO of Tableau is a longtime Salesforce exec Ryan Aytay. [42]
+
+Notable Tableau employees include Jock Mackinlay and computer scientist and author Leland Wilkinson.[43][44]
+
+Finances
+On May 17, 2013, Tableau launched an initial public offering on the New York Stock Exchange,[45] raising more than $250 million.[46] Prior to its IPO, Tableau raised over $45 million in venture capital investment from investors such as the NEA and Meritech.[46]
+
+Tableau's revenue grew significantly from 2010 through 2013, reporting $34.2 million in 2010, $62.4 million in 2011, $127.7 million in 2012, and $232.44 million in 2013.[47] Profit from 2010 to 2012 was $2.7 million, $3.4 million, and $1.6 million, respectively.[48]

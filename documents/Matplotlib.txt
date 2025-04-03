@@ -1,0 +1,9 @@
+Matplotlib (portmanteau of MATLAB, plot, and library[3]) is a plotting library for the Python programming language and its numerical mathematics extension NumPy. It provides an object-oriented API for embedding plots into applications using general-purpose GUI toolkits like Tkinter, wxPython, Qt, or GTK. There is also a procedural "pylab" interface based on a state machine (like OpenGL), designed to closely resemble that of MATLAB, though its use is discouraged.[4] SciPy makes use of Matplotlib.
+
+Matplotlib was originally written by John D. Hunter. Since then it has had an active development community[5] and is distributed under a BSD-style license. Michael Droettboom was nominated as matplotlib's lead developer shortly before John Hunter's death in August 2012[6] and was further joined by Thomas Caswell.[7][8] Matplotlib is a NumFOCUS fiscally sponsored project.[9]
+
+Comparison with MATLAB
+Pyplot is a Matplotlib module that provides a MATLAB-like interface.[10] Matplotlib is designed to be as usable as MATLAB, with the ability to use Python, and the advantage of being free and open-source.
+
+Plot Types
+Matplotlib supports various types of 2 dimensional and 3 dimensional plots. The support for two dimensional plots is robust. The support for three dimensional plots was added later and while it is good, it is not as robust as 2 dimensional plots

@@ -1,0 +1,14 @@
+Seaborn Networks is a developer, owner, and operator of submarine communications cables. Seaborn is the owner and operator of the Seabras-1 "submarine communications cable" between Brazil and the United States. Seabras-1 is fully operational (2017) and provides the first direct route between São Paulo, Brazil, and the United States.[1][2][3] The system has branching units installed on certain of its fiber pairs that point towards Virginia Beach (US), Miami (US), St. Croix (US), Fortaleza (Brazil), Cape Town (South Africa), Rio de Janeiro (Brazil), Brazil South. Seaborn's ARBR subsea system (RFS Q2 2020) is a fully funded 4-fiber pair, 48 Tbit/s system. ARBR will directly connect São Paulo, Brazil to Buenos Aires, Argentina. ARBR will connect to Seabras-1 in Seaborn's Praia Grande CLS enabling the most direct, lower latency connection between Argentina and the USA.[4][5] Partners Group (symbol: PGHN) is providing full project equity capital for Seabras-1 and development capital was provided by Seaborn. Seabras-1 is owned jointly by Seaborn Networks and Partners Group.[6][7] The US$520 million project funding for Seabras-1 has been completed.[8] The project funding also includes a total project debt commitment of up to US$267 million provided by Natixis, Banco Santander, Commerzbank, and Intesa Sanpaolo, which debt is backed by COFACE, the French Export Credit Agency.[9] Seabras-1 is the first direct point-to-point submarine cable system between the financial centers of the US and Brazil.
+
+
+Seaborn Network World Map
+References
+ Brazil: The Social Media Capital of the Universe The Wall Street Journal Feb. 4, 2013
+ Seaborn Networks signs contract with Alcatel-Lucent to build US-Brazil submarine cable network Alcatel-Lucent October 9, 2012
+ Internet do futuro passa pelo Atlantico September 2015
+ Seaborn Networks to build U.S.-to-Brazil submarine cable network FierceTelecom March 14, 2012
+ Seaborn Buys Metro Network and Backhaul for Seabras-1 Subsea World News
+ Seaborn proves it's possible to finance a new cable Submarine Cable World 18 March 2015
+ Milbank Advises Submarine Fiber Optic Cable Developer and Operator Seaborn Networks in Historic $500M New York-Brazil Sssubsea Cable Project Milbank January 16, 2015
+ Seaborn Networks completes USD 500 mln Seabras-1 funding 11 January 2016
+ Natixis finances Seabras-1 telecom project February 6, 2015

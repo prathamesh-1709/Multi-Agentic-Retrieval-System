@@ -1,0 +1,27 @@
+Data analysis is the process of inspecting, cleansing, transforming, and modeling data with the goal of discovering useful information, informing conclusions, and supporting decision-making.[1] Data analysis has multiple facets and approaches, encompassing diverse techniques under a variety of names, and is used in different business, science, and social science domains.[2] In today's business world, data analysis plays a role in making decisions more scientific and helping businesses operate more effectively.[3]
+
+Data mining is a particular data analysis technique that focuses on statistical modeling and knowledge discovery for predictive rather than purely descriptive purposes, while business intelligence covers data analysis that relies heavily on aggregation, focusing mainly on business information.[4] In statistical applications, data analysis can be divided into descriptive statistics, exploratory data analysis (EDA), and confirmatory data analysis (CDA).[5] EDA focuses on discovering new features in the data while CDA focuses on confirming or falsifying existing hypotheses.[6][7] Predictive analytics focuses on the application of statistical models for predictive forecasting or classification, while text analytics applies statistical, linguistic, and structural techniques to extract and classify information from textual sources, a species of unstructured data. All of the above are varieties of data analysis.[8]
+
+Data integration is a precursor to data analysis, and data analysis is closely linked to data visualization and data dissemination.[9]
+
+Data analysis process
+
+Data science process flowchart from Doing Data Science, by Schutt & O'Neil (2013)
+Analysis refers to dividing a whole into its separate components for individual examination.[10] Data analysis is a process for obtaining raw data, and subsequently converting it into information useful for decision-making by users.[1] Data is collected and analyzed to answer questions, test hypotheses, or disprove theories.[11]
+
+Statistician John Tukey, defined data analysis in 1961, as:
+
+"Procedures for analyzing data, techniques for interpreting the results of such procedures, ways of planning the gathering of data to make its analysis easier, more precise or more accurate, and all the machinery and results of (mathematical) statistics which apply to analyzing data."[12]
+
+There are several phases that can be distinguished, described below. The phases are iterative, in that feedback from later phases may result in additional work in earlier phases.[13] The CRISP framework, used in data mining, has similar steps.
+
+Data requirements
+The data is necessary as inputs to the analysis, which is specified based upon the requirements of those directing the analytics (or customers, who will use the finished product of the analysis).[14][15] The general type of entity upon which the data will be collected is referred to as an experimental unit (e.g., a person or population of people). Specific variables regarding a population (e.g., age and income) may be specified and obtained. Data may be numerical or categorical (i.e., a text label for numbers).[13]
+
+Data collection
+Data is collected from a variety of sources.[16][17] A list of data sources are available for study & research. The requirements may be communicated by analysts to custodians of the data; such as, Information Technology personnel within an organization.[18] Data collection or data gathering is the process of gathering and measuring information on targeted variables in an established system, which then enables one to answer relevant questions and evaluate outcomes. The data may also be collected from sensors in the environment, including traffic cameras, satellites, recording devices, etc. It may also be obtained through interviews, downloads from online sources, or reading documentation.[13]
+
+Data processing
+
+The phases of the intelligence cycle used to convert raw information into actionable intelligence or knowledge are conceptually similar to the phases in data analysis.
+Data, when initially obtained, must be processed or organized for analysis.[19][20] For instance, these may involve placing data into rows and columns in a table format (known as structured data) for further analysis, often through the use of spreadsheet(excel) or statistical software.[13]
